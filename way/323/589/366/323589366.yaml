@@ -1,0 +1,26 @@
+'@changeset': 84548374
+'@id': 323589366
+nd:
+    -
+        '@id': 3303688557
+        '@lat': 38.2678996
+        '@lon': 48.3203037
+    -
+        '@id': 1882234321
+        '@lat': 38.2677495
+        '@lon': 48.3205286
+tag:
+    -
+        '@k': highway
+        '@v': residential
+    -
+        '@k': maxspeed
+        '@v': '30'
+    -
+        '@k': name
+        '@v': 'قدس ۳'
+'@timestamp': '2020-05-03T06:25:11+00:00'
+'@uid': 9513428
+'@user': nshz
+'@version': 5
+'@visible': true
