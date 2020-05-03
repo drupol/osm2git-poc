@@ -1,0 +1,10 @@
+'@id': 7475255147
+'@lat': 50.2879897
+'@lon': 10.4460709
+tag:
+    -
+        '@k': natural
+        '@v': tree
+    -
+        '@k': source
+        '@v': 'esri world luftbilder (clarity)'

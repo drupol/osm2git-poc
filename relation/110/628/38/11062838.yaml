@@ -1,0 +1,24 @@
+'@changeset': 84548391
+'@id': 11062838
+member:
+    -
+        '@ref': 799281150
+        '@role': inner
+        '@type': way
+    -
+        '@ref': 799281148
+        '@role': outer
+        '@type': way
+tag:
+    -
+        '@k': landuse
+        '@v': meadow
+    -
+        '@k': source
+        '@v': 'esri world luftbilder (clarity)'
+    -
+        '@k': type
+        '@v': multipolygon
+'@timestamp': '2020-05-03T06:25:47+00:00'
+'@version': 1
+'@visible': true

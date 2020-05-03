@@ -1,0 +1,27 @@
+'@changeset': 84548391
+'@id': 740929918
+nd:
+    -
+        '@id': 6936847957
+        '@lat': 50.2888731
+        '@lon': 10.4500607
+    -
+        '@id': 6936847955
+        '@lat': 50.2902047
+        '@lon': 10.4501465
+    -
+        '@id': 7475275498
+        '@lat': 50.2905016
+        '@lon': 10.450184
+tag:
+    -
+        '@k': source
+        '@v': 'esri world luftbilder (clarity)'
+    -
+        '@k': waterway
+        '@v': ditch
+'@timestamp': '2020-05-03T06:25:47+00:00'
+'@uid': 210759
+'@user': 'Andreas König'
+'@version': 2
+'@visible': true

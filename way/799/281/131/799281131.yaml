@@ -1,0 +1,30 @@
+'@changeset': 84548391
+'@id': 799281131
+nd:
+    -
+        '@id': 7475275493
+        '@lat': 50.2875904
+        '@lon': 10.4468296
+    -
+        '@id': 7475275492
+        '@lat': 50.2885068
+        '@lon': 10.4499829
+    -
+        '@id': 7475275502
+        '@lat': 50.2885198
+        '@lon': 10.4501091
+tag:
+    -
+        '@k': highway
+        '@v': track
+    -
+        '@k': source
+        '@v': 'esri world luftbilder (clarity)'
+    -
+        '@k': tracktype
+        '@v': grade5
+'@timestamp': '2020-05-03T06:25:47+00:00'
+'@uid': 210759
+'@user': 'Andreas König'
+'@version': 1
+'@visible': true

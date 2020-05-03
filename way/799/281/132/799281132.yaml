@@ -1,0 +1,29 @@
+'@changeset': 84548391
+'@id': 799281132
+nd:
+    -
+        '@id': 7475275498
+        '@lat': 50.2905016
+        '@lon': 10.450184
+    -
+        '@id': 6936847963
+        '@lat': 50.2905155
+        '@lon': 10.4501854
+tag:
+    -
+        '@k': layer
+        '@v': '-1'
+    -
+        '@k': source
+        '@v': 'esri world luftbilder (clarity)'
+    -
+        '@k': tunnel
+        '@v': culvert
+    -
+        '@k': waterway
+        '@v': ditch
+'@timestamp': '2020-05-03T06:25:47+00:00'
+'@uid': 210759
+'@user': 'Andreas König'
+'@version': 1
+'@visible': true

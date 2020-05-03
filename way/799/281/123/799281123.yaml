@@ -1,0 +1,23 @@
+'@changeset': 84548391
+'@id': 799281123
+nd:
+    -
+        '@id': 7475255141
+        '@lat': 50.2878106
+        '@lon': 10.4494035
+    -
+        '@id': 7475255140
+        '@lat': 50.288018
+        '@lon': 10.4500768
+tag:
+    -
+        '@k': natural
+        '@v': tree_row
+    -
+        '@k': source
+        '@v': 'esri world luftbilder (clarity)'
+'@timestamp': '2020-05-03T06:25:47+00:00'
+'@uid': 210759
+'@user': 'Andreas König'
+'@version': 1
+'@visible': true
