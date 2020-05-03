@@ -1,0 +1,10 @@
+'@id': 7475273033
+'@lat': 59.7906732
+'@lon': 12.0337897
+tag:
+    -
+        '@k': name
+        '@v': Lövenäs
+    -
+        '@k': place
+        '@v': isolated_dwelling
