@@ -1,0 +1,10 @@
+'@id': 7475276485
+'@lat': 59.7862338
+'@lon': 12.0082125
+tag:
+    -
+        '@k': name
+        '@v': Tjärnet
+    -
+        '@k': place
+        '@v': isolated_dwelling
