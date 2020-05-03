@@ -1,0 +1,10 @@
+'@id': 7475273637
+'@lat': 33.1795536
+'@lon': 130.4931957
+tag:
+    -
+        '@k': crossing
+        '@v': marked
+    -
+        '@k': highway
+        '@v': crossing

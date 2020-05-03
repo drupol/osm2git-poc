@@ -1,0 +1,37 @@
+'@changeset': 84548366
+'@id': 786209045
+nd:
+    -
+        '@id': 7048812467
+        '@lat': 33.1795641
+        '@lon': 130.4931169
+    -
+        '@id': 7475273637
+        '@lat': 33.1795536
+        '@lon': 130.4931957
+        tag:
+            -
+                '@k': crossing
+                '@v': marked
+            -
+                '@k': highway
+                '@v': crossing
+    -
+        '@id': 7350881120
+        '@lat': 33.1795431
+        '@lon': 130.4932746
+tag:
+    -
+        '@k': crossing
+        '@v': marked
+    -
+        '@k': footway
+        '@v': crossing
+    -
+        '@k': highway
+        '@v': footway
+'@timestamp': '2020-05-03T06:24:59+00:00'
+'@uid': 9624625
+'@user': mitubato
+'@version': 2
+'@visible': true
