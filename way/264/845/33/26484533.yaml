@@ -1,0 +1,46 @@
+'@changeset': 84548382
+'@id': 26484533
+nd:
+    -
+        '@id': 290264644
+        '@lat': 50.6613274
+        '@lon': 8.3168302
+    -
+        '@id': 6481142420
+        '@lat': 50.6613925
+        '@lon': 8.3167979
+    -
+        '@id': 2517259083
+        '@lat': 50.6614461
+        '@lon': 8.3167502
+    -
+        '@id': 1295035096
+        '@lat': 50.6616459
+        '@lon': 8.3164913
+tag:
+    -
+        '@k': 'destination:ref'
+        '@v': 'A 45'
+    -
+        '@k': highway
+        '@v': motorway_link
+    -
+        '@k': lanes
+        '@v': '1'
+    -
+        '@k': lit
+        '@v': 'no'
+    -
+        '@k': maxspeed
+        '@v': none
+    -
+        '@k': oneway
+        '@v': 'yes'
+    -
+        '@k': surface
+        '@v': asphalt
+'@timestamp': '2020-05-03T06:25:34+00:00'
+'@uid': 877981
+'@user': abrensch
+'@version': 18
+'@visible': true

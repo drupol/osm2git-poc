@@ -1,0 +1,49 @@
+'@changeset': 84548382
+'@id': 242088531
+nd:
+    -
+        '@id': 1295034815
+        '@lat': 50.6616323
+        '@lon': 8.3163974
+    -
+        '@id': 2517259082
+        '@lat': 50.6613968
+        '@lon': 8.316663
+    -
+        '@id': 6481142422
+        '@lat': 50.6613628
+        '@lon': 8.3167369
+    -
+        '@id': 290264644
+        '@lat': 50.6613274
+        '@lon': 8.3168302
+tag:
+    -
+        '@k': highway
+        '@v': motorway_link
+    -
+        '@k': lanes
+        '@v': '1'
+    -
+        '@k': lit
+        '@v': 'no'
+    -
+        '@k': maxspeed
+        '@v': none
+    -
+        '@k': oneway
+        '@v': 'yes'
+    -
+        '@k': surface
+        '@v': asphalt
+    -
+        '@k': turn
+        '@v': left
+    -
+        '@k': 'turn:lanes'
+        '@v': left;right
+'@timestamp': '2020-05-03T06:25:34+00:00'
+'@uid': 877981
+'@user': abrensch
+'@version': 12
+'@visible': true

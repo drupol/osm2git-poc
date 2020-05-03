@@ -1,0 +1,51 @@
+'@changeset': 84548382
+'@id': 303980985
+nd:
+    -
+        '@id': 3084979279
+        '@lat': 50.6608664
+        '@lon': 8.3157778
+        tag:
+            -
+                '@k': highway
+                '@v': motorway_junction
+            -
+                '@k': name
+                '@v': Herborn-Süd
+            -
+                '@k': ref
+                '@v': '27'
+    -
+        '@id': 3084979278
+        '@lat': 50.6611329
+        '@lon': 8.3153603
+tag:
+    -
+        '@k': bridge
+        '@v': 'yes'
+    -
+        '@k': destination
+        '@v': Herborn;Gladenbach;Sinn;Greifenstein
+    -
+        '@k': highway
+        '@v': motorway_link
+    -
+        '@k': lanes
+        '@v': '1'
+    -
+        '@k': lit
+        '@v': 'no'
+    -
+        '@k': maxspeed
+        '@v': '60'
+    -
+        '@k': oneway
+        '@v': 'yes'
+    -
+        '@k': surface
+        '@v': asphalt
+'@timestamp': '2020-05-03T06:25:34+00:00'
+'@uid': 877981
+'@user': abrensch
+'@version': 7
+'@visible': true
