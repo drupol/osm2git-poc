@@ -1,0 +1,10 @@
+'@id': 6179013647
+'@lat': 53.7038868
+'@lon': 17.5740945
+tag:
+    -
+        '@k': 'addr:flats'
+        '@v': 11-25
+    -
+        '@k': entrance
+        '@v': staircase
