@@ -1,0 +1,26 @@
+'@changeset': 84548400
+'@id': 799281163
+nd:
+    -
+        '@id': 7475275896
+        '@lat': 10.7435295
+        '@lon': 76.1795054
+    -
+        '@id': 7475275895
+        '@lat': 10.7436374
+        '@lon': 76.1795083
+tag:
+    -
+        '@k': layer
+        '@v': '-1'
+    -
+        '@k': tunnel
+        '@v': culvert
+    -
+        '@k': waterway
+        '@v': stream
+'@timestamp': '2020-05-03T06:26:06+00:00'
+'@uid': 11064361
+'@user': rkc7803
+'@version': 1
+'@visible': true
