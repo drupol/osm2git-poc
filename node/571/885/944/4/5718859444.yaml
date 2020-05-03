@@ -1,0 +1,10 @@
+'@id': 5718859444
+'@lat': 5.3319199
+'@lon': -0.6259357
+tag:
+    -
+        '@k': man_made
+        '@v': mast
+    -
+        '@k': 'tower:type'
+        '@v': communication
