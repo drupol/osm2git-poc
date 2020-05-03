@@ -1,4 +1,4 @@
-'@changeset': 84548389
+'@changeset': 84548409
 '@id': 799281118
 nd:
     -
@@ -46,15 +46,15 @@ tag:
         '@v': hospital
     -
         '@k': name
-        '@v': 'Primary Health Centre Panamaram'
+        '@v': 'Community Health Centre Panamaram'
     -
         '@k': operator
         '@v': 'Departnment of health Services'
     -
         '@k': 'operator:type'
         '@v': government
-'@timestamp': '2020-05-03T06:25:44+00:00'
+'@timestamp': '2020-05-03T06:26:33+00:00'
 '@uid': 10311205
 '@user': 'ridhin raj'
-'@version': 1
+'@version': 2
 '@visible': true
