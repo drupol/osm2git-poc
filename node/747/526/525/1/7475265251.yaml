@@ -1,0 +1,10 @@
+'@id': 7475265251
+'@lat': 59.7927153
+'@lon': 12.0451472
+tag:
+    -
+        '@k': name
+        '@v': Mon
+    -
+        '@k': place
+        '@v': isolated_dwelling
