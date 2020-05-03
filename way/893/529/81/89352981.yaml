@@ -1,0 +1,29 @@
+'@changeset': 84548363
+'@id': 89352981
+nd:
+    -
+        '@id': 1036442483
+        '@lat': 38.3293719
+        '@lon': 28.710897
+    -
+        '@id': 1036442458
+        '@lat': 38.3295544
+        '@lon': 28.7106661
+tag:
+    -
+        '@k': bridge
+        '@v': 'yes'
+    -
+        '@k': highway
+        '@v': tertiary
+    -
+        '@k': layer
+        '@v': '1'
+    -
+        '@k': source
+        '@v': bing
+'@timestamp': '2020-05-03T06:24:57+00:00'
+'@uid': 2419578
+'@user': Ottonormalverbraucher
+'@version': 6
+'@visible': true
