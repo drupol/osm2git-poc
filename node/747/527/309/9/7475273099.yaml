@@ -1,0 +1,10 @@
+'@id': 7475273099
+'@lat': 59.7927429
+'@lon': 12.0123837
+tag:
+    -
+        '@k': name
+        '@v': Mojåsen
+    -
+        '@k': place
+        '@v': isolated_dwelling
