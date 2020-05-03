@@ -1,0 +1,10 @@
+'@id': 7475266140
+'@lat': 58.0384812
+'@lon': 16.2320178
+tag:
+    -
+        '@k': name
+        '@v': Björksnäs
+    -
+        '@k': place
+        '@v': isolated_dwelling
