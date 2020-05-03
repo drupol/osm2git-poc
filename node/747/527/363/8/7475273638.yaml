@@ -1,0 +1,10 @@
+'@id': 7475273638
+'@lat': 58.0313163
+'@lon': 16.2354128
+tag:
+    -
+        '@k': name
+        '@v': Dalsnäs
+    -
+        '@k': place
+        '@v': isolated_dwelling
