@@ -1,0 +1,10 @@
+'@id': 7475238082
+'@lat': 11.8422153
+'@lon': 75.6572532
+tag:
+    -
+        '@k': name
+        '@v': 'car point kannavam'
+    -
+        '@k': shop
+        '@v': car_parts

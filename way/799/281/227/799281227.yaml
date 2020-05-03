@@ -1,0 +1,41 @@
+'@changeset': 84548419
+'@id': 799281227
+nd:
+    -
+        '@id': 7475276406
+        '@lat': 11.8461319
+        '@lon': 75.6452476
+    -
+        '@id': 7475276407
+        '@lat': 11.8461211
+        '@lon': 75.6454196
+    -
+        '@id': 7475276408
+        '@lat': 11.8459961
+        '@lon': 75.6454363
+    -
+        '@id': 7475276409
+        '@lat': 11.845969
+        '@lon': 75.6452698
+    -
+        '@id': 7475276406
+        '@lat': 11.8461319
+        '@lon': 75.6452476
+tag:
+    -
+        '@k': amenity
+        '@v': place_of_worship
+    -
+        '@k': building
+        '@v': 'yes'
+    -
+        '@k': name
+        '@v': 'meruvanthala makham'
+    -
+        '@k': religion
+        '@v': muslim
+'@timestamp': '2020-05-03T06:26:52+00:00'
+'@uid': 11117568
+'@user': 'ijaz e'
+'@version': 1
+'@visible': true
