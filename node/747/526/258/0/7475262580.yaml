@@ -1,0 +1,10 @@
+'@id': 7475262580
+'@lat': 59.4280123
+'@lon': 15.4685809
+tag:
+    -
+        '@k': name
+        '@v': Holmen
+    -
+        '@k': place
+        '@v': isolated_dwelling
