@@ -1,0 +1,22 @@
+'@id': 2137607161
+'@lat': 57.7016065
+'@lon': 11.975251
+tag:
+    -
+        '@k': 'addr:city'
+        '@v': Göteborg
+    -
+        '@k': 'addr:country'
+        '@v': SE
+    -
+        '@k': 'addr:housenumber'
+        '@v': '11'
+    -
+        '@k': 'addr:postcode'
+        '@v': '411 35'
+    -
+        '@k': 'addr:street'
+        '@v': 'Södra Vägen'
+    -
+        '@k': entrance
+        '@v': 'yes'

@@ -1,0 +1,111 @@
+'@changeset': 84548367
+'@id': 158304490
+nd:
+    -
+        '@id': 1705302349
+        '@lat': 57.7011447
+        '@lon': 11.9761386
+    -
+        '@id': 7475264884
+        '@lat': 57.7010831
+        '@lon': 11.9762622
+        tag:
+            -
+                '@k': 'addr:city'
+                '@v': Göteborg
+            -
+                '@k': 'addr:country'
+                '@v': SE
+            -
+                '@k': 'addr:housenumber'
+                '@v': '15'
+            -
+                '@k': 'addr:postcode'
+                '@v': '411 35'
+            -
+                '@k': 'addr:street'
+                '@v': 'Södra Vägen'
+            -
+                '@k': entrance
+                '@v': 'yes'
+    -
+        '@id': 2137607163
+        '@lat': 57.7008687
+        '@lon': 11.9766924
+        tag:
+            -
+                '@k': 'addr:city'
+                '@v': Göteborg
+            -
+                '@k': 'addr:country'
+                '@v': SE
+            -
+                '@k': 'addr:housenumber'
+                '@v': '17'
+            -
+                '@k': 'addr:postcode'
+                '@v': '411 35'
+            -
+                '@k': 'addr:street'
+                '@v': 'Södra Vägen'
+            -
+                '@k': entrance
+                '@v': 'yes'
+    -
+        '@id': 1705302290
+        '@lat': 57.7008387
+        '@lon': 11.9767526
+    -
+        '@id': 1705302250
+        '@lat': 57.7007234
+        '@lon': 11.9765513
+    -
+        '@id': 1705302277
+        '@lat': 57.7007634
+        '@lon': 11.976471
+    -
+        '@id': 1705302281
+        '@lat': 57.7007715
+        '@lon': 11.9764852
+    -
+        '@id': 1705302298
+        '@lat': 57.7009396
+        '@lon': 11.976148
+    -
+        '@id': 1705302288
+        '@lat': 57.700833
+        '@lon': 11.9758907
+    -
+        '@id': 1705302302
+        '@lat': 57.7009647
+        '@lon': 11.9756992
+    -
+        '@id': 2168909766
+        '@lat': 57.7010648
+        '@lon': 11.9759437
+        tag:
+            -
+                '@k': 'addr:city'
+                '@v': Göteborg
+            -
+                '@k': 'addr:country'
+                '@v': SE
+            -
+                '@k': 'addr:housenumber'
+                '@v': '45'
+            -
+                '@k': 'addr:street'
+                '@v': Vasagatan
+    -
+        '@id': 1705302349
+        '@lat': 57.7011447
+        '@lon': 11.9761386
+tag:
+    -
+        '@k': building
+        '@v': 'yes'
+'@timestamp': '2020-05-03T06:24:59+00:00'
+'@uid': 953001
+'@user': tomasy
+'@version': 3
+'@visible': true

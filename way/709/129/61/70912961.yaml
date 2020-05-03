@@ -1,0 +1,147 @@
+'@changeset': 84548367
+'@id': 70912961
+nd:
+    -
+        '@id': 1705154318
+        '@lat': 57.6998366
+        '@lon': 11.9787993
+    -
+        '@id': 1705154215
+        '@lat': 57.6997308
+        '@lon': 11.9786182
+    -
+        '@id': 845244467
+        '@lat': 57.6996353
+        '@lon': 11.9788316
+    -
+        '@id': 845244464
+        '@lat': 57.6993918
+        '@lon': 11.9782364
+    -
+        '@id': 1705154032
+        '@lat': 57.6996039
+        '@lon': 11.97793
+    -
+        '@id': 1705153887
+        '@lat': 57.6995261
+        '@lon': 11.9777333
+    -
+        '@id': 2637968968
+        '@lat': 57.6994253
+        '@lon': 11.9778782
+        tag:
+            -
+                '@k': 'addr:city'
+                '@v': Göteborg
+            -
+                '@k': 'addr:country'
+                '@v': SE
+            -
+                '@k': 'addr:housenumber'
+                '@v': '18'
+            -
+                '@k': 'addr:street'
+                '@v': Lorensbergsgatan
+    -
+        '@id': 7412646344
+        '@lat': 57.6993983
+        '@lon': 11.977917
+    -
+        '@id': 845244436
+        '@lat': 57.6992286
+        '@lon': 11.9781607
+    -
+        '@id': 1705153694
+        '@lat': 57.6992265
+        '@lon': 11.9781995
+    -
+        '@id': 2468969583
+        '@lat': 57.6993361
+        '@lon': 11.9784666
+        tag:
+            -
+                '@k': 'addr:city'
+                '@v': Göteborg
+            -
+                '@k': 'addr:country'
+                '@v': SE
+            -
+                '@k': 'addr:housenumber'
+                '@v': 34A
+            -
+                '@k': 'addr:street'
+                '@v': Engelbrektsgatan
+    -
+        '@id': 2468969584
+        '@lat': 57.6994506
+        '@lon': 11.9787458
+        tag:
+            -
+                '@k': 'addr:city'
+                '@v': Göteborg
+            -
+                '@k': 'addr:country'
+                '@v': SE
+            -
+                '@k': 'addr:housenumber'
+                '@v': 34B
+            -
+                '@k': 'addr:street'
+                '@v': Engelbrektsgatan
+    -
+        '@id': 2468969575
+        '@lat': 57.6995594
+        '@lon': 11.9790112
+        tag:
+            -
+                '@k': 'addr:city'
+                '@v': Göteborg
+            -
+                '@k': 'addr:country'
+                '@v': SE
+            -
+                '@k': 'addr:housenumber'
+                '@v': 23C
+            -
+                '@k': 'addr:street'
+                '@v': Engelbrektsgatan
+    -
+        '@id': 845244439
+        '@lat': 57.6996375
+        '@lon': 11.9792016
+    -
+        '@id': 7475264879
+        '@lat': 57.6998145
+        '@lon': 11.978844
+        tag:
+            -
+                '@k': 'addr:city'
+                '@v': Göteborg
+            -
+                '@k': 'addr:country'
+                '@v': SE
+            -
+                '@k': 'addr:housenumber'
+                '@v': '29'
+            -
+                '@k': 'addr:postcode'
+                '@v': '411 35'
+            -
+                '@k': 'addr:street'
+                '@v': 'Södra Vägen'
+            -
+                '@k': entrance
+                '@v': 'yes'
+    -
+        '@id': 1705154318
+        '@lat': 57.6998366
+        '@lon': 11.9787993
+tag:
+    -
+        '@k': building
+        '@v': 'yes'
+'@timestamp': '2020-05-03T06:24:59+00:00'
+'@uid': 953001
+'@user': tomasy
+'@version': 6
+'@visible': true
