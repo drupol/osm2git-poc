@@ -1,0 +1,10 @@
+'@id': 7475275185
+'@lat': 11.9443071
+'@lon': 108.4335079
+tag:
+    -
+        '@k': 'name:ru'
+        '@v': 'Vin Mart'
+    -
+        '@k': shop
+        '@v': supermarket
