@@ -1,0 +1,34 @@
+'@id': 4433312898
+'@lat': 48.6899878
+'@lon': 6.1817913
+tag:
+    -
+        '@k': 'contact:facebook'
+        '@v': 'https://www.facebook.com/revesdemomesstore/'
+    -
+        '@k': 'contact:housenumber'
+        '@v': '17'
+    -
+        '@k': 'contact:phone'
+        '@v': '+33 3 83323219'
+    -
+        '@k': 'contact:street'
+        '@v': 'rue Raugraff'
+    -
+        '@k': 'delivery:covid19'
+        '@v': 'yes'
+    -
+        '@k': 'description:covid19'
+        '@v': 'commande en ligne'
+    -
+        '@k': name
+        '@v': 'Rêves de Mômes'
+    -
+        '@k': 'opening_hours:covid19'
+        '@v': open
+    -
+        '@k': shop
+        '@v': shoes
+    -
+        '@k': source
+        '@v': survey
