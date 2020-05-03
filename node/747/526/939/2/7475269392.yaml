@@ -1,0 +1,10 @@
+'@id': 7475269392
+'@lat': 59.4469446
+'@lon': 15.4945872
+tag:
+    -
+        '@k': name
+        '@v': Nytorp
+    -
+        '@k': place
+        '@v': isolated_dwelling
