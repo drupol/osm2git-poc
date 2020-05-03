@@ -1,0 +1,10 @@
+'@id': 7475245407
+'@lat': 59.787763
+'@lon': 12.0375952
+tag:
+    -
+        '@k': name
+        '@v': Framnäs
+    -
+        '@k': place
+        '@v': isolated_dwelling
