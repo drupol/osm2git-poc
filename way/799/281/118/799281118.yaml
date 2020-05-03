@@ -1,0 +1,60 @@
+'@changeset': 84548389
+'@id': 799281118
+nd:
+    -
+        '@id': 7475272531
+        '@lat': 11.7383818
+        '@lon': 76.0702716
+    -
+        '@id': 7475272532
+        '@lat': 11.7382897
+        '@lon': 76.0702758
+    -
+        '@id': 7475272533
+        '@lat': 11.738306
+        '@lon': 76.0706545
+    -
+        '@id': 7475272534
+        '@lat': 11.7383941
+        '@lon': 76.0706356
+    -
+        '@id': 7475272535
+        '@lat': 11.7383921
+        '@lon': 76.0705206
+    -
+        '@id': 7475272536
+        '@lat': 11.7384433
+        '@lon': 76.0705164
+    -
+        '@id': 7475272537
+        '@lat': 11.7384453
+        '@lon': 76.0704306
+    -
+        '@id': 7475272538
+        '@lat': 11.7383777
+        '@lon': 76.0704327
+    -
+        '@id': 7475272531
+        '@lat': 11.7383818
+        '@lon': 76.0702716
+tag:
+    -
+        '@k': amenity
+        '@v': hospital
+    -
+        '@k': healthcare
+        '@v': hospital
+    -
+        '@k': name
+        '@v': 'Primary Health Centre Panamaram'
+    -
+        '@k': operator
+        '@v': 'Departnment of health Services'
+    -
+        '@k': 'operator:type'
+        '@v': government
+'@timestamp': '2020-05-03T06:25:44+00:00'
+'@uid': 10311205
+'@user': 'ridhin raj'
+'@version': 1
+'@visible': true
