@@ -1,0 +1,1 @@
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[9.6499671,46.6632406],[9.6502597,46.6634081],[9.6503237,46.6635183]]},"properties":{"@changeset":84548364,"@id":688732427,"@timestamp":"2020-05-03T06:24:58+00:00","@uid":508672,"@user":"SingletrailMap","@version":2,"@visible":true,"highway":"track","sac_scale":"mountain_hiking","surface":"gravel","width":"1.5"}}

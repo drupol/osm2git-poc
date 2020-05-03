@@ -1,0 +1,33 @@
+'@changeset': 84548364
+'@id': 688732427
+nd:
+    -
+        '@id': 962366071
+        '@lat': 46.6632406
+        '@lon': 9.6499671
+    -
+        '@id': 962366241
+        '@lat': 46.6634081
+        '@lon': 9.6502597
+    -
+        '@id': 962366130
+        '@lat': 46.6635183
+        '@lon': 9.6503237
+tag:
+    -
+        '@k': highway
+        '@v': track
+    -
+        '@k': sac_scale
+        '@v': mountain_hiking
+    -
+        '@k': surface
+        '@v': gravel
+    -
+        '@k': width
+        '@v': '1.5'
+'@timestamp': '2020-05-03T06:24:58+00:00'
+'@uid': 508672
+'@user': SingletrailMap
+'@version': 2
+'@visible': true

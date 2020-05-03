@@ -1,0 +1,158 @@
+'@changeset': 84548364
+'@id': 9572650
+member:
+    -
+        '@ref': 688732425
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 82683005
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688727279
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688727277
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688637349
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688637350
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688727264
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688727263
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688727281
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 82682994
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688728347
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688728349
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688728343
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 82682998
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688727267
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688727268
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688727269
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688727270
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 799281108
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 588161641
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 588161642
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 588161646
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688732430
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 588161644
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 688732432
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 588161645
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 589049986
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 75727906
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 75727932
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 82682997
+        '@role': ''
+        '@type': way
+    -
+        '@ref': 591644951
+        '@role': ''
+        '@type': way
+tag:
+    -
+        '@k': from
+        '@v': 'Crap Furò'
+    -
+        '@k': itinerary
+        '@v': 'Crap Furò - Alvaneu Bad'
+    -
+        '@k': network
+        '@v': lwn
+    -
+        '@k': operator
+        '@v': 'BAW Bündner Wanderwege'
+    -
+        '@k': 'osmc:symbol'
+        '@v': 'red:white:red_bar'
+    -
+        '@k': route
+        '@v': hiking
+    -
+        '@k': symbol
+        '@v': weiss-rot-weiss
+    -
+        '@k': to
+        '@v': 'Alvaneu Bad'
+    -
+        '@k': type
+        '@v': route
+'@timestamp': '2020-05-03T06:24:58+00:00'
+'@version': 6
+'@visible': true
