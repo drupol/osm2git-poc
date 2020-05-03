@@ -1,0 +1,25 @@
+'@id': 1264683715
+'@lat': 49.092962
+'@lon': 17.7410427
+tag:
+    -
+        '@k': brand
+        '@v': Penny
+    -
+        '@k': 'brand:wikidata'
+        '@v': Q284688
+    -
+        '@k': 'brand:wikipedia'
+        '@v': 'en:Penny (supermarket)'
+    -
+        '@k': name
+        '@v': Penny
+    -
+        '@k': operator
+        '@v': Penny
+    -
+        '@k': shop
+        '@v': supermarket
+    -
+        '@k': wheelchair
+        '@v': 'yes'
