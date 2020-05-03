@@ -1,0 +1,23 @@
+'@changeset': 84548398
+'@id': 799281155
+nd:
+    -
+        '@id': 7475271191
+        '@lat': 39.3464362
+        '@lon': 45.0589199
+    -
+        '@id': 7475271192
+        '@lat': 39.346674
+        '@lon': 45.0588475
+tag:
+    -
+        '@k': highway
+        '@v': residential
+    -
+        '@k': name
+        '@v': 'کوچه دهم'
+'@timestamp': '2020-05-03T06:26:00+00:00'
+'@uid': 10988693
+'@user': aliebrahempoor
+'@version': 1
+'@visible': true

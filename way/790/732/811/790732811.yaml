@@ -1,0 +1,26 @@
+'@changeset': 84548398
+'@id': 790732811
+nd:
+    -
+        '@id': 7391805187
+        '@lat': 39.3432263
+        '@lon': 45.0648594
+    -
+        '@id': 7392262915
+        '@lat': 39.3433355
+        '@lon': 45.0653294
+tag:
+    -
+        '@k': fixme
+        '@v': 'کوچه چهارم'
+    -
+        '@k': highway
+        '@v': residential
+    -
+        '@k': name
+        '@v': 'کوچه پنجم'
+'@timestamp': '2020-05-03T06:26:00+00:00'
+'@uid': 10988693
+'@user': aliebrahempoor
+'@version': 6
+'@visible': true
