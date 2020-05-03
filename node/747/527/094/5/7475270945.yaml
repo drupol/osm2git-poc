@@ -1,0 +1,10 @@
+'@id': 7475270945
+'@lat': 58.0779268
+'@lon': 16.1718758
+tag:
+    -
+        '@k': name
+        '@v': Furuliden
+    -
+        '@k': place
+        '@v': isolated_dwelling
