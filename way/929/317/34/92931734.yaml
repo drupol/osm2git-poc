@@ -1,0 +1,97 @@
+'@changeset': 84548405
+'@id': 92931734
+nd:
+    -
+        '@id': 1077390062
+        '@lat': 43.1742638
+        '@lon': 2.9897129
+    -
+        '@id': 1077391315
+        '@lat': 43.1745115
+        '@lon': 2.9896291
+    -
+        '@id': 1077390807
+        '@lat': 43.1752352
+        '@lon': 2.9893424
+    -
+        '@id': 1077390280
+        '@lat': 43.1753863
+        '@lon': 2.9892498
+    -
+        '@id': 1077389866
+        '@lat': 43.1755311
+        '@lon': 2.9891263
+    -
+        '@id': 1077390987
+        '@lat': 43.175708
+        '@lon': 2.9889278
+    -
+        '@id': 1077390387
+        '@lat': 43.1758334
+        '@lon': 2.9887338
+    -
+        '@id': 1077390046
+        '@lat': 43.175883
+        '@lon': 2.9886566
+    -
+        '@id': 2110469490
+        '@lat': 43.175954
+        '@lon': 2.9885293
+    -
+        '@id': 7475263660
+        '@lat': 43.1759739
+        '@lon': 2.9884818
+        tag:
+            -
+                '@k': 'crossing:barrier'
+                '@v': 'no'
+            -
+                '@k': 'crossing:bell'
+                '@v': 'no'
+            -
+                '@k': 'crossing:light'
+                '@v': 'no'
+            -
+                '@k': railway
+                '@v': level_crossing
+            -
+                '@k': supervised
+                '@v': 'no'
+    -
+        '@id': 1077390889
+        '@lat': 43.1760528
+        '@lon': 2.9883163
+        tag:
+            -
+                '@k': 'crossing:barrier'
+                '@v': 'no'
+            -
+                '@k': 'crossing:bell'
+                '@v': 'no'
+            -
+                '@k': 'crossing:light'
+                '@v': 'no'
+            -
+                '@k': railway
+                '@v': level_crossing
+            -
+                '@k': supervised
+                '@v': 'no'
+tag:
+    -
+        '@k': gauge
+        '@v': '1435'
+    -
+        '@k': railway
+        '@v': rail
+    -
+        '@k': service
+        '@v': spur
+    -
+        '@k': source
+        '@v': Bing
+'@timestamp': '2020-05-03T06:26:17+00:00'
+'@uid': 635268
+'@user': Percherie
+'@version': 6
+'@visible': true

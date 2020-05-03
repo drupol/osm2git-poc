@@ -1,0 +1,80 @@
+'@changeset': 84548405
+'@id': 799281206
+nd:
+    -
+        '@id': 7475263681
+        '@lat': 43.1759485
+        '@lon': 2.9884615
+    -
+        '@id': 7475263660
+        '@lat': 43.1759739
+        '@lon': 2.9884818
+        tag:
+            -
+                '@k': 'crossing:barrier'
+                '@v': 'no'
+            -
+                '@k': 'crossing:bell'
+                '@v': 'no'
+            -
+                '@k': 'crossing:light'
+                '@v': 'no'
+            -
+                '@k': railway
+                '@v': level_crossing
+            -
+                '@k': supervised
+                '@v': 'no'
+    -
+        '@id': 7475263659
+        '@lat': 43.1759946
+        '@lon': 2.9884985
+        tag:
+            -
+                '@k': 'crossing:barrier'
+                '@v': 'no'
+            -
+                '@k': 'crossing:bell'
+                '@v': 'no'
+            -
+                '@k': 'crossing:light'
+                '@v': 'no'
+            -
+                '@k': railway
+                '@v': level_crossing
+            -
+                '@k': supervised
+                '@v': 'no'
+    -
+        '@id': 7475263658
+        '@lat': 43.1760219
+        '@lon': 2.9885204
+        tag:
+            -
+                '@k': 'crossing:barrier'
+                '@v': 'no'
+            -
+                '@k': 'crossing:bell'
+                '@v': 'no'
+            -
+                '@k': 'crossing:light'
+                '@v': 'no'
+            -
+                '@k': railway
+                '@v': level_crossing
+            -
+                '@k': supervised
+                '@v': 'no'
+    -
+        '@id': 7475276286
+        '@lat': 43.1764587
+        '@lon': 2.9888713
+tag:
+    -
+        '@k': highway
+        '@v': service
+'@timestamp': '2020-05-03T06:26:17+00:00'
+'@uid': 635268
+'@user': Percherie
+'@version': 1
+'@visible': true

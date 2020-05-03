@@ -1,0 +1,32 @@
+'@changeset': 84548405
+'@id': 684543984
+nd:
+    -
+        '@id': 347366213
+        '@lat': 43.175567
+        '@lon': 2.9880913
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 6413714758
+        '@lat': 43.1757001
+        '@lon': 2.9880671
+        tag:
+            -
+                '@k': barrier
+                '@v': gate
+    -
+        '@id': 6413714752
+        '@lat': 43.1757576
+        '@lon': 2.9881007
+tag:
+    -
+        '@k': highway
+        '@v': service
+'@timestamp': '2020-05-03T06:26:17+00:00'
+'@uid': 635268
+'@user': Percherie
+'@version': 2
+'@visible': true

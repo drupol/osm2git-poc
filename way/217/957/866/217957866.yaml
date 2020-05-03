@@ -1,0 +1,133 @@
+'@changeset': 84548405
+'@id': 217957866
+nd:
+    -
+        '@id': 2272673593
+        '@lat': 43.1699992
+        '@lon': 2.9873309
+    -
+        '@id': 347366127
+        '@lat': 43.1704721
+        '@lon': 2.9875348
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 347366128
+        '@lat': 43.1710843
+        '@lon': 2.987811
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 347366233
+        '@lat': 43.1714794
+        '@lon': 2.9879865
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 344971973
+        '@lat': 43.171902
+        '@lon': 2.9881805
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 344971974
+        '@lat': 43.1723921
+        '@lon': 2.9883912
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 344971975
+        '@lat': 43.1725145
+        '@lon': 2.9884304
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 344971976
+        '@lat': 43.1726126
+        '@lon': 2.9884473
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 344971977
+        '@lat': 43.1727051
+        '@lon': 2.9884451
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 344971978
+        '@lat': 43.1728427
+        '@lon': 2.9884387
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 347366215
+        '@lat': 43.1737107
+        '@lon': 2.9882964
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 344971980
+        '@lat': 43.1744966
+        '@lon': 2.9881422
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 7475276288
+        '@lat': 43.17538
+        '@lon': 2.9880264
+    -
+        '@id': 347366213
+        '@lat': 43.175567
+        '@lon': 2.9880913
+        tag:
+            -
+                '@k': source
+                '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008'
+    -
+        '@id': 7475276287
+        '@lat': 43.1756841
+        '@lon': 2.9882491
+    -
+        '@id': 7475263681
+        '@lat': 43.1759485
+        '@lon': 2.9884615
+tag:
+    -
+        '@k': highway
+        '@v': unclassified
+    -
+        '@k': maxspeed
+        '@v': '50'
+    -
+        '@k': name
+        '@v': 'Rue du Rec de Veyret'
+    -
+        '@k': source
+        '@v': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008'
+'@timestamp': '2020-05-03T06:26:17+00:00'
+'@uid': 635268
+'@user': Percherie
+'@version': 5
+'@visible': true

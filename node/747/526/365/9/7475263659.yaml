@@ -1,0 +1,19 @@
+'@id': 7475263659
+'@lat': 43.1759946
+'@lon': 2.9884985
+tag:
+    -
+        '@k': 'crossing:barrier'
+        '@v': 'no'
+    -
+        '@k': 'crossing:bell'
+        '@v': 'no'
+    -
+        '@k': 'crossing:light'
+        '@v': 'no'
+    -
+        '@k': railway
+        '@v': level_crossing
+    -
+        '@k': supervised
+        '@v': 'no'

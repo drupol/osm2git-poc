@@ -1,0 +1,88 @@
+'@changeset': 84548405
+'@id': 3675929
+member:
+    -
+        '@ref': 2809783923
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809815577
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809816658
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809809528
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809806020
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809845737
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809840642
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809802050
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809828253
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809843233
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809795834
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809821510
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809820821
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809803412
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809849016
+        '@role': house
+        '@type': node
+    -
+        '@ref': 2809800182
+        '@role': house
+        '@type': node
+    -
+        '@ref': 217957866
+        '@role': street
+        '@type': way
+    -
+        '@ref': 31027097
+        '@role': street
+        '@type': way
+tag:
+    -
+        '@k': name
+        '@v': 'Rue du Rec de Veyret'
+    -
+        '@k': 'ref:FR:FANTOIR'
+        '@v': 112624434V
+    -
+        '@k': type
+        '@v': associatedStreet
+'@timestamp': '2020-05-03T06:26:17+00:00'
+'@version': 2
+'@visible': true
