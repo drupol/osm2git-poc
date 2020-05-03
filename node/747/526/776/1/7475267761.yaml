@@ -1,0 +1,10 @@
+'@id': 7475267761
+'@lat': 59.4321587
+'@lon': 15.497278
+tag:
+    -
+        '@k': name
+        '@v': Lövhagen
+    -
+        '@k': place
+        '@v': isolated_dwelling
