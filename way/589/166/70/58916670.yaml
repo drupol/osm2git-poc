@@ -1,0 +1,47 @@
+'@changeset': 84548388
+'@id': 58916670
+nd:
+    -
+        '@id': 729940875
+        '@lat': 49.6999474
+        '@lon': 9.2760913
+    -
+        '@id': 729940767
+        '@lat': 49.6996926
+        '@lon': 9.2762553
+    -
+        '@id': 729940791
+        '@lat': 49.6991688
+        '@lon': 9.2769121
+    -
+        '@id': 7475242283
+        '@lat': 49.6988287
+        '@lon': 9.2770806
+    -
+        '@id': 729940806
+        '@lat': 49.6974557
+        '@lon': 9.2775572
+tag:
+    -
+        '@k': highway
+        '@v': track
+    -
+        '@k': 'mtb:scale'
+        '@v': '0'
+    -
+        '@k': name
+        '@v': 'Wenschdorfer Straße (Nr. 30-40)'
+    -
+        '@k': surface
+        '@v': gravel
+    -
+        '@k': tracktype
+        '@v': grade2
+    -
+        '@k': width
+        '@v': '2.5'
+'@timestamp': '2020-05-03T06:25:40+00:00'
+'@uid': 577936
+'@user': cepesko
+'@version': 4
+'@visible': true

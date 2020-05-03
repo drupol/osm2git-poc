@@ -1,0 +1,26 @@
+'@changeset': 84548388
+'@id': 799281116
+nd:
+    -
+        '@id': 7475275391
+        '@lat': 49.6998879
+        '@lon': 9.2763412
+    -
+        '@id': 7475242272
+        '@lat': 49.6999957
+        '@lon': 9.2762452
+tag:
+    -
+        '@k': name
+        '@v': Steffleinsgraben
+    -
+        '@k': tunnel
+        '@v': culvert
+    -
+        '@k': waterway
+        '@v': drain
+'@timestamp': '2020-05-03T06:25:40+00:00'
+'@uid': 577936
+'@user': cepesko
+'@version': 1
+'@visible': true

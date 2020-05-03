@@ -1,0 +1,42 @@
+'@changeset': 84548388
+'@id': 44689971
+nd:
+    -
+        '@id': 302599591
+        '@lat': 49.688898
+        '@lon': 9.2849945
+    -
+        '@id': 7475242282
+        '@lat': 49.6893466
+        '@lon': 9.2833039
+    -
+        '@id': 302599592
+        '@lat': 49.6898264
+        '@lon': 9.2820242
+tag:
+    -
+        '@k': highway
+        '@v': track
+    -
+        '@k': incline
+        '@v': down
+    -
+        '@k': 'mtb:scale'
+        '@v': '0'
+    -
+        '@k': 'mtb:scale:uphill'
+        '@v': '2'
+    -
+        '@k': sac_scale
+        '@v': hiking
+    -
+        '@k': surface
+        '@v': ground
+    -
+        '@k': tracktype
+        '@v': grade4
+'@timestamp': '2020-05-03T06:25:40+00:00'
+'@uid': 577936
+'@user': cepesko
+'@version': 5
+'@visible': true
