@@ -1,0 +1,26 @@
+'@changeset': 84548421
+'@id': 226009570
+nd:
+    -
+        '@id': 2348600034
+        '@lat': -13.4078447
+        '@lon': -72.2083763
+    -
+        '@id': 2348600022
+        '@lat': -13.4077192
+        '@lon': -72.2082661
+tag:
+    -
+        '@k': bridge
+        '@v': 'yes'
+    -
+        '@k': highway
+        '@v': track
+    -
+        '@k': layer
+        '@v': '1'
+'@timestamp': '2020-05-03T06:26:57+00:00'
+'@uid': 9557426
+'@user': WESONGAJAY
+'@version': 2
+'@visible': true
