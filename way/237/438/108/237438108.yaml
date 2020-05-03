@@ -1,0 +1,61 @@
+'@changeset': 84548401
+'@id': 237438108
+nd:
+    -
+        '@id': 2453346627
+        '@lat': 53.0713258
+        '@lon': 8.785792
+    -
+        '@id': 2456229924
+        '@lat': 53.0713842
+        '@lon': 8.785891
+    -
+        '@id': 2453346647
+        '@lat': 53.0713948
+        '@lon': 8.7859089
+    -
+        '@id': 2453346671
+        '@lat': 53.0714669
+        '@lon': 8.7857945
+    -
+        '@id': 2456229926
+        '@lat': 53.0714574
+        '@lon': 8.7857778
+    -
+        '@id': 2453346649
+        '@lat': 53.0714002
+        '@lon': 8.7856765
+    -
+        '@id': 2453346627
+        '@lat': 53.0713258
+        '@lon': 8.785792
+tag:
+    -
+        '@k': 'addr:city'
+        '@v': Bremen
+    -
+        '@k': 'addr:country'
+        '@v': DE
+    -
+        '@k': 'addr:housenumber'
+        '@v': '53'
+    -
+        '@k': 'addr:postcode'
+        '@v': '28199'
+    -
+        '@k': 'addr:street'
+        '@v': Hohentorsheerstraße
+    -
+        '@k': building
+        '@v': apartments
+    -
+        '@k': 'building:levels'
+        '@v': '3'
+    -
+        '@k': 'roof:levels'
+        '@v': '2'
+'@timestamp': '2020-05-03T06:26:06+00:00'
+'@uid': 8821021
+'@user': '*ppg'
+'@version': 5
+'@visible': true

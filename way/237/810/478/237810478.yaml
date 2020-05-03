@@ -1,0 +1,53 @@
+'@changeset': 84548401
+'@id': 237810478
+nd:
+    -
+        '@id': 2191733713
+        '@lat': 53.0704786
+        '@lon': 8.7835531
+    -
+        '@id': 2456776750
+        '@lat': 53.0704375
+        '@lon': 8.7834826
+    -
+        '@id': 2456776753
+        '@lat': 53.0705139
+        '@lon': 8.7833592
+    -
+        '@id': 2456776757
+        '@lat': 53.070555
+        '@lon': 8.7834298
+    -
+        '@id': 2191733713
+        '@lat': 53.0704786
+        '@lon': 8.7835531
+tag:
+    -
+        '@k': 'addr:city'
+        '@v': Bremen
+    -
+        '@k': 'addr:country'
+        '@v': DE
+    -
+        '@k': 'addr:housenumber'
+        '@v': '145'
+    -
+        '@k': 'addr:postcode'
+        '@v': '28199'
+    -
+        '@k': 'addr:street'
+        '@v': Weizenkampstraße
+    -
+        '@k': building
+        '@v': house
+    -
+        '@k': 'building:levels'
+        '@v': '4'
+    -
+        '@k': 'roof:levels'
+        '@v': '1'
+'@timestamp': '2020-05-03T06:36:13+00:00'
+'@uid': 8821021
+'@user': '*ppg'
+'@version': 5
+'@visible': true
