@@ -1,0 +1,20 @@
+'@changeset': 84548417
+'@id': 799281220
+nd:
+    -
+        '@id': 7475265782
+        '@lat': 38.5229298
+        '@lon': 44.9628476
+    -
+        '@id': 3756342638
+        '@lat': 38.5217104
+        '@lon': 44.9627789
+tag:
+    -
+        '@k': highway
+        '@v': residential
+'@timestamp': '2020-05-03T06:26:45+00:00'
+'@uid': 9626513
+'@user': araash
+'@version': 1
+'@visible': true
