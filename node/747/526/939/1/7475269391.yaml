@@ -1,0 +1,10 @@
+'@id': 7475269391
+'@lat': 59.4308306
+'@lon': 15.4975187
+tag:
+    -
+        '@k': name
+        '@v': Steneborg
+    -
+        '@k': place
+        '@v': isolated_dwelling
