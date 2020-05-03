@@ -1,0 +1,10 @@
+'@id': 7475269869
+'@lat': 58.0284372
+'@lon': 16.2367525
+tag:
+    -
+        '@k': name
+        '@v': Vibo
+    -
+        '@k': place
+        '@v': isolated_dwelling
